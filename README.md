@@ -1,14 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## Global apps
+# To work on this project
+
+## Pre Requisites:
 
 ### Node
+
 Check that you have node installed 
 ```
 node -v
 ```
-If you get 'command not found' go to nodejs.org and install node
+If you get 'command not found' os similar, go to nodejs.org and install node
+
+### Yarn
 
 Check that you have yarn installed
 ```
@@ -17,16 +22,23 @@ yarn -v
 If you get 'command not found' go to https://classic.yarnpkg.com/en/ 
 
 ## Install node_modules
+To install all the packages this project depends on run:
 ``` 
 yarn install
 ```
 
-## Code
+This should download the apps and create a `node_modules` folder in your computer
+
+# Start Coding:
+
+Run the following
 ```
 yarn start
 ```
 
-go to `src` folde and work on `index.js` and `index.css`
+It will open the project on your browser
+
+Change the code on `src` folder and play on `index.js` and `index.css`
 
 ## Available Scripts
 
