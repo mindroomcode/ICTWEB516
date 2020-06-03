@@ -1,5 +1,33 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Global apps
+
+### Node
+Check that you have node installed 
+```
+node -v
+```
+If you get 'command not found' go to nodejs.org and install node
+
+Check that you have yarn installed
+```
+yarn -v
+```
+If you get 'command not found' go to https://classic.yarnpkg.com/en/ 
+
+## Install node_modules
+``` 
+yarn install
+```
+
+## Code
+```
+yarn start
+```
+
+go to `src` folde and work on `index.js` and `index.css`
+
 ## Available Scripts
 
 In the project directory, you can run:
