@@ -3,42 +3,47 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # To work on this project
 
-## Pre Requisites:
+Download or clone the project. Open the downloaded folder on VsCode or other code editor. If not using VsCode make sure you open the terminal in the correct folder. You can use the `cd` command to browser your computer using the terminal. 
+
+Example:
+
+```
+cd ~/Desktop/react_spa
+```
+
+See a basic [tutorial on the terminal](https://www.youtube.com/watch?v=jDINUSK7rXE) to get more confortable
+
+If you are using windows, download [git bash](https://gitforwindows.org/) and use it as your terminal 
 
 ### Node
 
 Check that you have node installed 
+
 ```
 node -v
 ```
-If you get 'command not found' os similar, go to nodejs.org and install node
-
-### Yarn
-
-Check that you have yarn installed
-```
-yarn -v
-```
-If you get 'command not found' go to https://classic.yarnpkg.com/en/ 
+If you a version number you should be good to go. If you get `command not found` os similar, go to nodejs.org and install node
 
 ## Install node_modules
+
 To install all the packages this project depends on run:
+
 ``` 
-yarn install
+npm install
 ```
 
 This should download the apps and create a `node_modules` folder in your computer
 
 # Start Coding:
 
+The code you can edit lives in the `src` folder, specifically the `index.js` and `index.css`. 
+
 Run the following
 ```
-yarn start
+npm start
 ```
 
-It will open the project on your browser
-
-Change the code on `src` folder and play on `index.js` and `index.css`
+It will open the project on your browser with live reload ready to go (changes to the code should update automatically). 
 
 ## Available Scripts
 
