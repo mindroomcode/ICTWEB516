@@ -1,10 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-<video width="100%" height="240" controls>
-  <source src="spa.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Project Screenshot](spa.gif)
+
 
 # To work on this project
 
