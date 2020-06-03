@@ -1,6 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+<video width="100%" height="240" controls>
+  <source src="spa.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 # To work on this project
 
 Download or clone the project. Open the downloaded folder on VsCode or other code editor. If not using VsCode make sure you open the terminal in the correct folder. You can use the `cd` command to browser your computer using the terminal. 
