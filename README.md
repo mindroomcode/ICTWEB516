@@ -1,10 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React SPA
+
+This simple SPA (single page application) was developed in our React and React Router class at Mindroom. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ 
 
 ![Project Screenshot](spa.gif)
 
 
-# To work on this project
+# How to work and customise this project further
 
 Download or clone the project. Open the downloaded folder on VsCode or other code editor. If not using VsCode make sure you open the terminal in the correct folder. You can use the `cd` command to browser your computer using the terminal. 
 
